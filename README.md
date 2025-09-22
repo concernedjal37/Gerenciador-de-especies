@@ -22,3 +22,5 @@ O usuário não deve ser capaz de acessar o sistema de quaisquer formas que prej
 O usuário não deve ser capaz de apagar o registro de uma espécie se essa espécie tiver indivíduos registrados em um habitat antes que ele apague todos os indivíduos dos habitats.
 
 Git-Project: https://github.com/users/concernedjal37/projects/2
+
+Diagrama de caso de uso: https://drive.google.com/file/d/1DD8iToERq-1yPONkB-46RWibs2PnFwO2/view?usp=sharing
