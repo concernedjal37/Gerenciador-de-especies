@@ -23,4 +23,4 @@ O usuário não deve ser capaz de apagar o registro de uma espécie se essa esp�
 
 Git-Project: https://github.com/users/concernedjal37/projects/2
 
-Diagrama de caso de uso: https://drive.google.com/file/d/1DD8iToERq-1yPONkB-46RWibs2PnFwO2/view?usp=sharing
+Diagrama de caso de uso: https://lucid.app/lucidchart/b439e6fc-42f2-42c6-9111-7cf311717436/edit?viewport_loc=428%2C-139%2C1297%2C622%2C0_0&invitationId=inv_802d69b9-24d9-4d10-93de-f7da2cdc14bf
