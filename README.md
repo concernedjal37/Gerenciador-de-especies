@@ -22,6 +22,7 @@ O usuário não deve ser capaz de acessar o sistema de quaisquer formas que prej
 O usuário não deve ser capaz de apagar o registro de uma espécie se essa espécie tiver indivíduos registrados em um habitat antes que ele apague todos os indivíduos dos habitats.
 O usuário não deve ser capaz de apagar um habitat com indivíduos presentes.
 O usuário não deve ser capaz de registrar um novo indivíduo se não existe a especie ou não existe um habitat.
+O usuário não deve ser capaz de atualizar qualquer elemento que não exista.
 
 Git-Project: https://github.com/users/concernedjal37/projects/2
 
