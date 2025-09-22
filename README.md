@@ -20,6 +20,7 @@ O sistema deve permitir que o usuário atualize e modifique os dados do habitat 
 Requisitos não funcionais:
 O usuário não deve ser capaz de acessar o sistema de quaisquer formas que prejudiquem o sistema ou o de acesso a conta de outros usuários permitindo edição de quaisquer dados.
 O usuário não deve ser capaz de apagar o registro de uma espécie se essa espécie tiver indivíduos registrados em um habitat antes que ele apague todos os indivíduos dos habitats.
+O usuário não deve ser capaz de apagar um habitat com indivíduos presentes.
 
 Git-Project: https://github.com/users/concernedjal37/projects/2
 
